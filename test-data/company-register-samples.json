@@ -1,0 +1,34 @@
+{
+  "samples": [
+    {
+      "name": "minimal",
+      "description": "Only required fields (companyName, email, password)",
+      "payload": {
+        "companyName": "Acme Corp",
+        "email": "hr@acme.example",
+        "password": "StrongP@ssw0rd"
+      }
+    },
+    {
+      "name": "full",
+      "description": "All useful optional profile fields included",
+      "payload": {
+        "companyName": "Acme Corp",
+        "email": "hr@acme.example",
+        "password": "StrongP@ssw0rd",
+        "contactPerson": "Jane Doe",
+        "phone": "+1-555-1234",
+        "website": "https://www.acme.example",
+        "industry": "Software"
+      }
+    },
+    {
+      "name": "missing_password",
+      "description": "Negative test: missing required 'password' field",
+      "payload": {
+        "companyName": "Broken Inc",
+        "email": "broken@acme.example"
+      }
+    }
+  ]
+}
