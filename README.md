@@ -27,10 +27,10 @@ The platform offers three login typesâ€”**Student**, **Admin**, and **Company**â
 
 | Roll No | Name | Email | 
 |---------|------|-------|
-| CB.SC.U4CSE23435 | K Mayuka Sri | Cb.sc.u4cse23435@cb.students.amrita.edu | 
-| CB.SC.U4CSE23429 | Madhumithraa TS | Cb.sc.u4cse23429@cb.students.amrita.edu | 
-| CB.SC.U4CSE23516 | C B Harinie | Cb.sc.u4cse23516@cb.students.amrita.edu | 
-| CB.SC.U4CSE23520 | K Kanishthika | Cb.sc.u4cse23520@cb.students.amrita.edu | 
+| CB.SC.U4CSE23435 | K Mayuka Sri | cb.sc.u4cse23435@cb.students.amrita.edu | 
+| CB.SC.U4CSE23429 | Madhumithraa TS | cb.sc.u4cse23429@cb.students.amrita.edu | 
+| CB.SC.U4CSE23516 | C B Harinie | cb.sc.u4cse23516@cb.students.amrita.edu | 
+| CB.SC.U4CSE23520 | K Kanishthika | cb.sc.u4cse23520@cb.students.amrita.edu | 
 
 **Institution:** Amrita Vishwa Vidyapeetham, Coimbatore Campus  
 **Department:** Computer Science and Engineering  
